@@ -1,0 +1,17 @@
+FCARDENASSS — actualización de la web
+
+Cambios:
+- Los dos vídeos son enlaces fijos, con miniaturas de YouTube:
+  * Mi último vídeo: https://www.youtube.com/watch?v=wMNTiwY5I4I&t=25s
+  * Vídeo destacado: https://www.youtube.com/watch?v=yuXFishObq0&t=154s
+- Añadida la casilla Contactar al final, con mailto: fernandocardenasofficial@gmail.com
+
+Para actualizar GitHub:
+1. Descomprime este ZIP.
+2. Entra en el repositorio FCardenas-Enlaces.
+3. Pulsa Add file > Upload files.
+4. Sube index.html y la carpeta assets.
+5. Pulsa Commit changes.
+6. Espera unos minutos y recarga la página publicada con Ctrl+F5.
+
+La sección de vídeos ya no necesita automatización; usa los enlaces que has indicado.
